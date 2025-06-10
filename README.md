@@ -14,3 +14,4 @@ The goal is to practice and demonstrate fundamental concepts taught in ZyBooks.
 ## Directory Structure
 
 - `/basicIO` — Implementations related to input/output operations
+- '/inheritance' - Implementing abstract and inheritance classes
