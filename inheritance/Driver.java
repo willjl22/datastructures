@@ -7,8 +7,8 @@ import java.util.Scanner;
  */
 public class Driver
 {
-    public double accountBalance = 0.0;
-    public static int totalNumOfAccs = 3;
+     double accountBalance = 0.0;
+     static int totalNumOfAccs = 3;
     
     //demo code given in project details
     public String toString(){

@@ -7,13 +7,13 @@
  */
 public abstract class ExpressAccount
 {
-    public int accNumber;
-    public double accBalance; 
-    public double baseBonusAmt;
-    public double mealPrice;
-    public static int mealNum;
-    public String accTypeName;
-    public double amount;
+    int accNumber;
+    double accBalance; 
+    double baseBonusAmt;
+    double mealPrice;
+    static int mealNum;
+    String accTypeName;
+    double amount;
     
     /**
      * @param  accNumber initializes the integer input into the call to the accNumber
