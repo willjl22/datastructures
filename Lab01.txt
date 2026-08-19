@@ -1,0 +1,8 @@
+Hello, world!
+This is a test
+for Lab1.
+
+=======================
+Line Count: 3
+Word Count: 8
+Char Count: 36
