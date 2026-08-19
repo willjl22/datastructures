@@ -13,5 +13,5 @@ The goal is to practice and demonstrate fundamental concepts taught in ZyBooks.
 
 ## Directory Structure
 
-- `/basicIO` — Implementations related to input/output operations
-- '/inheritance' - Implementing abstract and inheritance classes
+- `/basicIO` — Implementations related to input/output operations using Java
+- '/inheritance' - Implementing abstract and inheritance classes using Java
